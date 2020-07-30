@@ -1,2 +1,2 @@
 # project-music-cards
-Repo to illustrate gits collaboration features @projectCreate
+Repo to demonstrate gits collaboration features @projectCreate
