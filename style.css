@@ -137,3 +137,6 @@ nav li{
   height: 32rem;
 }
 
+.navbar-toggler{
+  background-color: rgb(23, 64, 187) !important;
+}
