@@ -1,6 +1,16 @@
 :root{
   scroll-behavior: smooth;
 }
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -.05rem;
+}
+@media (min-width: 62em) {
+  .featurette-heading {
+    margin-top: 7rem;
+  }
+}
 
 .first{
   background-image: url('./img/Vanishing-Stripes.svg');
